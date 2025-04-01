@@ -1,8 +1,8 @@
- let nome = "Ewerton"
- let idade = 25;
- let logado = true
- let lista = ["ovo","massa","corante "]
+ let nome = "Ewerton" // string //
+ let idade = 25; // number
+ let logado = true // boolean
+ let lista = ["ovo","massa","corante "] // array
 
-console.log(typeof nome)
+console.log(typeof nomeCompleto) // object
 
-
+// este e um comentario //
